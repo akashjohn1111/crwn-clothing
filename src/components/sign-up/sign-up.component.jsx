@@ -59,7 +59,7 @@ name='displayName'
 type='text'
 handleChange={this.handleChange}
 value={displayName}
-label='Display Name'
+label='UserName'
 required
 />
 <FormInput
