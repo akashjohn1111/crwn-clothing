@@ -32,7 +32,6 @@ setCurrentUser({
 
 });
   }
-  
   setCurrentUser(userAuth);
 });
 }
